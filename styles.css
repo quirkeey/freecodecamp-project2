@@ -26,6 +26,7 @@ body {
     margin: 3rem auto 3rem auto;
     max-width: 500px;
     text-align: left;
+    list-style-position: inside;
   }
   li {
     margin: 1rem 0;
